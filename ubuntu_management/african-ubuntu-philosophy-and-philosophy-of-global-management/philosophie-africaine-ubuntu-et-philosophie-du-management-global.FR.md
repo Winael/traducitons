@@ -20,7 +20,7 @@ La philosophie d'Afrique _Ubuntu_ peut apporter une contribution significative �
 
 ## 2. La Philosophie Ubuntu
 
-L'une des caractéristiques les plus frappantes des cultures de l'Afrique subsaharienne est leur caractère non individualiste : "Bien que les cultures africaines présentent une diversité impressionnante, elles présentent également des similitudes remarquables. La communauté est la pierre angulaire de la pensée et de la vie africaines"<sup>[1](#myfootnote1)</sup>. Un Africain n'est pas un individu robuste, mais une personne au sein d'une communauté. Pour reprendre les mots de John Mbiti, "Je suis, parce que nous sommes ; et puisque nous sommes, donc je suis"[2]. Ou, comme le dit Yusufu Turaki : "Les gens ne sont pas des individus, vivant dans un état d'indépendance, mais font partie d'une communauté, vivant dans les relations et l'interdépendance"[3].
+L'une des caractéristiques les plus frappantes des cultures de l'Afrique subsaharienne est leur caractère non individualiste : "Bien que les cultures africaines présentent une diversité impressionnante, elles présentent également des similitudes remarquables. La communauté est la pierre angulaire de la pensée et de la vie africaines"<sup>[1](#myfootnote1)</sup>. Un Africain n'est pas un individu robuste, mais une personne au sein d'une communauté. Pour reprendre les mots de John Mbiti, "Je suis, parce que nous sommes ; et puisque nous sommes, donc je suis"<sup>[2](#myfootnote2)</sup>. Ou, comme le dit Yusufu Turaki : "Les gens ne sont pas des individus, vivant dans un état d'indépendance, mais font partie d'une communauté, vivant dans les relations et l'interdépendance"<sup>[3](#myfootnote3)</sup>.
 
 Le caractère communautaire de la culture africaine ne signifie pas pour autant que le bien de l'individu soit subordonné à celui du groupe, comme c'est le cas dans le collectivisme marxiste. Dans une véritable communauté, l'individu ne poursuit pas le bien commun _au lieu de_ son propre bien, mais il poursuit plutôt son propre bien _en poursuivant_ le bien commun. L'éthique d'une véritable communauté ne demande pas aux personnes de sacrifier leur propre bien pour promouvoir le bien des autres, mais plutôt de reconnaître qu'elles ne peuvent atteindre leur propre bien véritable qu'en promouvant le bien des autres. Obiora Ike et Ndidi Nnoli Edozien expliquent cela en décrivant la structure de la société Igbo :
 
@@ -182,8 +182,11 @@ Il reste évidemment beaucoup de travail pour étoffer ce squelette. Si j'ai ins
 ## Notes
 
 <a name="myfootnote1">1</a>: Lovemore Mbigi, L'esprit du leadership africain (Randburg : Knowres, 2005), p. 75.
-[2]: John S. Mbiti, Religions et philosophie africaines (Nairobi : East African Educational Publishers, 1969), p. 108-109.
-[3]: Yusufu Turaki, Fondations de la religion traditionnelle africaine et sa vision du monde (Nairobi : WordAlive Publishers, 2006), p. 36.
+
+<a name="myfootnote2">2</a>: John S. Mbiti, Religions et philosophie africaines (Nairobi : East African Educational Publishers, 1969), p. 108-109.
+
+<a name="myfootnote3">3</a>: Yusufu Turaki, Fondations de la religion traditionnelle africaine et sa vision du monde (Nairobi : WordAlive Publishers, 2006), p. 36.
+
 [4]: Obiora F. Ike & Ndidi Nnoli Edozien, Comprendre l'Afrique : Raisonnement juridique traditionnel, jurisprudence et justice en Igboland (Enugu : CIDJAP Publications, 2001), p. 155. 5
 [5]: Kwame Gyekye, La vie non examinée : Philosophie et expérience africaine (Accra : Sankofa, 1996), p. 32.
 [6]: Mogobe B. Ramose, Philosophie africaine à travers Ubuntu (Harare : Mond Books, 1999), p. 49.
