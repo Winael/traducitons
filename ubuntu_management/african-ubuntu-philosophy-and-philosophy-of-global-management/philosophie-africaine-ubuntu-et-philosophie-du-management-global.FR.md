@@ -36,27 +36,27 @@ Le mot _ubuntu_ appartient au groupe des langues nguni, et a des connotations da
 
 > _Ubuntu_ est très difficile à exprimer dans une langue occidentale. Cela parle de l'essence même de ce qu'est être humain. Lorsque nous voulons faire l'éloge de quelqu'un, nous disons : "_Yu, u nobuntu_" ; "Hé, il ou elle a l'_ubuntu_". Cela signifie que ces personnes sont généreuses, hospitalières, amicales, attentionnées et compatissantes. Ils partagent ce qu'ils ont. Cela signifie aussi que mon humanité est prise, inextricablement liée à la leur. Nous appartenons à un faisceau de vie<sup>[10](#footnote10)</sup>.
 
-Comme c'est le cas de l'éthique traditionnelle ailleurs, l'éthique africaine traditionnelle est une éthique de la vertu. Selon les mots de Joseph Nyasani : "Des vertus comme la patience, l'optimisme, la sympathie mutuelle et l'empathie sont éminemment caractéristiques du mode de vie africain et indiquent certainement un mode d'existence particulier qui étend le domaine des potentialités individuelles pour embrasser la vie des autres et leurs préoccupations"[^11]. Et Wendy Luhabe écrit :
+Comme c'est le cas de l'éthique traditionnelle ailleurs, l'éthique africaine traditionnelle est une éthique de la vertu. Selon les mots de Joseph Nyasani : "Des vertus comme la patience, l'optimisme, la sympathie mutuelle et l'empathie sont éminemment caractéristiques du mode de vie africain et indiquent certainement un mode d'existence particulier qui étend le domaine des potentialités individuelles pour embrasser la vie des autres et leurs préoccupations"<sup>[11](#footnote11)</sup>. Et Wendy Luhabe écrit :
 
-> Notre propre culture africaine nous a enseigné des concepts tels que le respect, la confiance, la compassion et, surtout, que nous sommes un collectif dont la réussite d'une personne dépend beaucoup de la réussite de tous. Il s'agit d'un concept largement désigné sous le nom de "_ubuntu_" ou "_umntu ngumntu ngabanye_" (ce qui nous rend humains, c'est notre reconnaissance de l'humanité des autres)[^12].
+> Notre propre culture africaine nous a enseigné des concepts tels que le respect, la confiance, la compassion et, surtout, que nous sommes un collectif dont la réussite d'une personne dépend beaucoup de la réussite de tous. Il s'agit d'un concept largement désigné sous le nom de "_ubuntu_" ou "_umntu ngumntu ngabanye_" (ce qui nous rend humains, c'est notre reconnaissance de l'humanité des autres)<sup>[12](#footnote12)</sup>.
 
 ## 3. Différentes interprétations d'_Ubuntu_
 
-L'une des critiques formulées à l'encontre du concept d'_ubuntu_ concerne son caractère vague : "Le problème est qu'_ubuntu_ semble signifier presque tout ce que l'on choisit"[^13] Thaddeus Metz a apporté une précision philosophique à _ubuntu_, en évaluant six différentes interprétations théoriques du concept. Comme il en rejette à juste titre quatre comme étant insatisfaisantes, nous n'avons qu'à considérer les deux autres :
+L'une des critiques formulées à l'encontre du concept d'_ubuntu_ concerne son caractère vague : "Le problème est qu'_ubuntu_ semble signifier presque tout ce que l'on choisit"<sup>[13](#footnote13)</sup> Thaddeus Metz a apporté une précision philosophique à _ubuntu_, en évaluant six différentes interprétations théoriques du concept. Comme il en rejette à juste titre quatre comme étant insatisfaisantes, nous n'avons qu'à considérer les deux autres :
 
 - U4 : Une action est juste dans la mesure où elle se rapporte positivement aux autres et se réalise ainsi ; une action est mauvaise parce qu'elle ne perfectionne pas la nature précieuse de l'être social.
 
-- U6 : Une action est juste dans la mesure où elle produit de l'harmonie et réduit la discorde ; un acte est mauvais dans la mesure où il ne parvient pas à développer la communauté[^14].
+- U6 : Une action est juste dans la mesure où elle produit de l'harmonie et réduit la discorde ; un acte est mauvais dans la mesure où il ne parvient pas à développer la communauté<sup>[14](#footnote14)</sup>.
 
-Metz rejette U4, "probablement l'interprétation dominante de l'éthique africaine dans la littérature", et accepte U6 comme "la formulation théorique la plus prometteuse d'une éthique africaine que l'on puisse trouver dans la littérature"[^15] U6 est préférable, affirme-t-il, parce que U4 enracine l'éthique dans le bien de l'agent, tandis que U6 l'enracine dans le bien des autres personnes :
+Metz rejette U4, "probablement l'interprétation dominante de l'éthique africaine dans la littérature", et accepte U6 comme "la formulation théorique la plus prometteuse d'une éthique africaine que l'on puisse trouver dans la littérature"<sup>[15](#footnote15)</sup> U6 est préférable, affirme-t-il, parce que U4 enracine l'éthique dans le bien de l'agent, tandis que U6 l'enracine dans le bien des autres personnes :
 
-> Si je demande pourquoi je devrais aider les autres, par exemple, [U4] me dit que la raison justificative de base pour le faire (bien que ce ne soit pas ma propre motivation) est que cela m'aidera en faisant de moi une personne plus respectable ou meilleure. Cependant, une meilleure explication fondamentale de la raison pour laquelle je devrais aider les autres ne repose pas sur le fait que cela serait bénéfique pour moi, ou du moins pas seulement sur ce fait, mais sur le fait que cela serait (probablement) bénéfique pour eux, une explication qu'une éthique de la réalisation de soi ne peut pas, par définition, invoquer[^16].
+> Si je demande pourquoi je devrais aider les autres, par exemple, [U4] me dit que la raison justificative de base pour le faire (bien que ce ne soit pas ma propre motivation) est que cela m'aidera en faisant de moi une personne plus respectable ou meilleure. Cependant, une meilleure explication fondamentale de la raison pour laquelle je devrais aider les autres ne repose pas sur le fait que cela serait bénéfique pour moi, ou du moins pas seulement sur ce fait, mais sur le fait que cela serait (probablement) bénéfique pour eux, une explication qu'une éthique de la réalisation de soi ne peut pas, par définition, invoquer<sup>[16](#footnote16)</sup>.
 
-Metz ajoute : "L'idée selon laquelle certaines relations interpersonnelles ont un statut moral de base ne se retrouve pas souvent dans la théorie normative anglo-américaine ou continentale"[^17], ce qui est certainement exact. Mais si l'on considère la théorie normative européenne _traditionnelle_, le cas est différent. L'éthique d'Aristote est à la fois une théorie de la réalisation de soi et une théorie des relations interpersonnelles, sans contradiction. Les vertus aristotéliciennes sont des perfectionnements du moi qui impliquent une relation avec les autres.
+Metz ajoute : "L'idée selon laquelle certaines relations interpersonnelles ont un statut moral de base ne se retrouve pas souvent dans la théorie normative anglo-américaine ou continentale"<sup>[17](#footnote17)</sup>, ce qui est certainement exact. Mais si l'on considère la théorie normative européenne _traditionnelle_, le cas est différent. L'éthique d'Aristote est à la fois une théorie de la réalisation de soi et une théorie des relations interpersonnelles, sans contradiction. Les vertus aristotéliciennes sont des perfectionnements du moi qui impliquent une relation avec les autres.
 
-La philosophie morale européenne moderne assume ce que Henry Sidgwick appelle "le dualisme de la raison pratique" [^18] et C. S. Lewis appelle "la philosophie de l'enfer" [^19]: l'idée que le bien d'une personne est distinct de celui d'une autre. Pour les principaux philosophes moraux de l'Antiquité et du Moyen Âge, en revanche, le bien commun est mon bien. Une analogie peut être utile : Dans une véritable équipe de football, par opposition à une collection d'athlètes portant le même uniforme, un joueur n'a pas à choisir entre faire ce qui est le mieux pour lui et faire ce qui est le mieux pour son équipe. Contribuer au succès de l'équipe est en même temps bon pour lui-même.
+La philosophie morale européenne moderne assume ce que Henry Sidgwick appelle "le dualisme de la raison pratique"<sup>[18](#footnote18)</sup> et C. S. Lewis appelle "la philosophie de l'enfer"<sup>[19](#footnote19)</sup>: l'idée que le bien d'une personne est distinct de celui d'une autre. Pour les principaux philosophes moraux de l'Antiquité et du Moyen Âge, en revanche, le bien commun est mon bien. Une analogie peut être utile : Dans une véritable équipe de football, par opposition à une collection d'athlètes portant le même uniforme, un joueur n'a pas à choisir entre faire ce qui est le mieux pour lui et faire ce qui est le mieux pour son équipe. Contribuer au succès de l'équipe est en même temps bon pour lui-même.
 
-Aristote fait la même remarque, je crois, lorsqu'il dit : " Une personne excellente est liée à son ami de la même manière qu'elle est liée à elle-même, puisqu'un ami est un autre lui-même "[^20] De plus, les explications concernant _ubuntu_ s'accordent à dire que nous atteignons l'épanouissement de soi par le biais des relations interpersonnelles. Lovemore Mbigi nous dit : "Je ne peux pas séparer mon humanité de celle des gens qui m'entourent"[^21] ; selon Fred Luthans _et al._, "sous Ubuntu, il y a une existence individuelle du moi et l'existence simultanée pour les autres"[^22] ; et Augustine Shutte écrit : "Je ne deviens pleinement humain que dans la mesure où je suis inclus dans les relations avec les autres"[^23].
+Aristote fait la même remarque, je crois, lorsqu'il dit : "Une personne excellente est liée à son ami de la même manière qu'elle est liée à elle-même, puisqu'un ami est un autre lui-même"<sup>[20](#footnote20)</sup> De plus, les explications concernant _ubuntu_ s'accordent à dire que nous atteignons l'épanouissement de soi par le biais des relations interpersonnelles. Lovemore Mbigi nous dit : "Je ne peux pas séparer mon humanité de celle des gens qui m'entourent"[^21] ; selon Fred Luthans _et al._, "sous Ubuntu, il y a une existence individuelle du moi et l'existence simultanée pour les autres"[^22] ; et Augustine Shutte écrit : "Je ne deviens pleinement humain que dans la mesure où je suis inclus dans les relations avec les autres"[^23].
 
 De manière significative, l'argument d'Aristote selon lequel le sacrifice de soi est un acte d'amour de soi dépend, non pas de la récompense après la mort, mais d'une distinction entre les biens d'ordre inférieur et les biens d'ordre supérieur : "L'homme excellent travaille pour ses amis et pour son pays natal, et mourra pour eux s'il le faut ; il sacrifiera de l'argent, des honneurs et des biens contestés en général, en réalisant ce qui est bon pour lui"[^24]. L'éthique d'Aristote n'est pas surnaturelle, mais elle est super-matérielle. Si les biens matériels étaient les seuls biens, alors le bien d'une personne entrerait continuellement en conflit avec le bien des autres. Si, en revanche, des biens non matériels existent, il est alors possible de concilier l'éthique de la réalisation de soi et l'éthique des relations interpersonnelles.
 
@@ -181,35 +181,46 @@ Il reste évidemment beaucoup de travail pour étoffer ce squelette. Si j'ai ins
 
 ## Notes
 
-<a name="footnote1">1</a>: Lovemore Mbigi, L'esprit du leadership africain (Randburg : Knowres, 2005), p. 75.
+<a name="footnote1">1</a>: **Lovemore Mbigi**, _L'esprit du leadership africain_ (Randburg : Knowres, 2005), p. 75.
 
-<a name="footnote2">2</a>: John S. Mbiti, Religions et philosophie africaines (Nairobi : East African Educational Publishers, 1969), p. 108-109.
+<a name="footnote2">2</a>: **John S. Mbiti**, _Religions et philosophie africaines_ (Nairobi : East African Educational Publishers, 1969), p. 108-109.
 
-<a name="footnote3">3</a>: Yusufu Turaki, Fondations de la religion traditionnelle africaine et sa vision du monde (Nairobi : WordAlive Publishers, 2006), p. 36.
+<a name="footnote3">3</a>: **Yusufu Turaki**, _Fondations de la religion traditionnelle africaine et sa vision du monde_ (Nairobi : WordAlive Publishers, 2006), p. 36.
 
-<a name="footnote4">4</a>: Obiora F. Ike & Ndidi Nnoli Edozien, Comprendre l'Afrique : Raisonnement juridique traditionnel, jurisprudence et justice en Igboland (Enugu : CIDJAP Publications, 2001), p. 155. 5
+<a name="footnote4">4</a>: **Obiora F. Ike & Ndidi Nnoli Edozien**, _Comprendre l'Afrique : Raisonnement juridique traditionnel, jurisprudence et justice en Igboland_ (Enugu : CIDJAP Publications, 2001), p. 155. 5
 
-<a name="footnote5">5</a>: Kwame Gyekye, La vie non examinée : Philosophie et expérience africaine (Accra : Sankofa, 1996), p. 32.
+<a name="footnote5">5</a>: **Kwame Gyekye**, _La vie non examinée : Philosophie et expérience africaine_ (Accra : Sankofa, 1996), p. 32.
 
-<a name="footnote6">6</a>: Mogobe B. Ramose, Philosophie africaine à travers Ubuntu (Harare : Mond Books, 1999), p. 49.
+<a name="footnote6">6</a>: **Mogobe B. Ramose**, _Philosophie africaine à travers Ubuntu_ (Harare : Mond Books, 1999), p. 49.
 
-<a name="footnote7">7</a>: Richard Tambulasi & Happy Kayuni, " les pieds africains peuvent-ils divorcer des chaussures occidentales ? Le cas d'Ubuntu et de la bonne gouvernance démocratique au Malawi", Nordic Journal of African Studies, Vol. 14, No. 2 (2005), p. 147.
+<a name="footnote7">7</a>: **Richard Tambulasi & Happy Kayuni**, _"Les pieds africains peuvent-ils divorcer des chaussures occidentales ? Le cas d'Ubuntu et de la bonne gouvernance démocratique au Malawi"_, Nordic Journal of African Studies, Vol. 14, No. 2 (2005), p. 147.
 
-<a name="footnote8">8</a>: Jabulani Sithole, " L'Afrique ne peut utiliser que sa propre culture pour influencer la mondialisation ", afrol News, 15 mai 2001, http://www.afrol.com/html/News2001/afr020_culture_econ.htm.
+<a name="footnote8">8</a>: **Jabulani Sithole**, _"L'Afrique ne peut utiliser que sa propre culture pour influencer la mondialisation ", afrol News_, 15 mai 2001, http://www.afrol.com/html/News2001/afr020_culture_econ.htm.
 
-<a name="footnote9">9</a>: Reuel J. Khoza, Laissez l'Afrique diriger : Le leadership transformationnel africain pour les affaires du 21e siècle (Johannesburg : Vezubuntu, 2006), p. 6.
+<a name="footnote9">9</a>: **Reuel J. Khoza**, _Laissez l'Afrique diriger : Le leadership transformationnel africain pour les affaires du 21e siècle_ (Johannesburg : Vezubuntu, 2006), p. 6.
 
-<a name="footnote10">10</a>: Desmond Mpilo Tutu, Pas de futur sans pardon (Londres : Rider, 1999), p. 34-35.
-[^11]: Joseph M. Nyasani, " La signification ontologique du "moi" et du "nous" dans la philosophie africaine ", dans Moi, Nous et le corps : Premier symposium conjoint de philosophes d'Afrique et des Pays-Bas, sous la direction de Heinz Kimmerle (Amsterdam : B. R. Grüner, 1989), p. 9.
-[^12]: Wendy Luhabe, Définir les moments : Définir les moments : les expériences des dirigeants noirs sur le lieu de travail en Afrique du Sud (Pietermaritzburg : University of Natal Press, 2002), p. 103.
-[^13]: "Ubuntu, et autres conseils de management", The Economist, Vol. 334, No. 7906 (18 mars 1995), p. 68.
-[^14]: Thaddeus Metz, " Vers une théorie morale africaine ", Journal de la philosophie politique, Vol. 15, No. 3 (2007), p. 331, 334.
-[^15]: Ibid.
-[^16]: Ibid, p. 332.
-[^17]: Ibid, p. 333.
-[^18]: Henry Sidgwick, Les méthodes de l'éthique, 7e éd. (Londres : Macmillan, 1907), p. 404, note 1.
-[^19]: C. S. Lewis, Les lettres du ruban adhésif, Ed. rév. (New York : Macmillan, 1982), p. 81.
-[^20]: Aristote, Éthique de Nicomaque, trad. Terence Irwin (Indianapolis : Hackett, 1985), 1170b6-7.
+<a name="footnote10">10</a>: **Desmond Mpilo Tutu**, _Pas de futur sans pardon_ (Londres : Rider, 1999), p. 34-35.
+
+<a name="footnote11">11</a>: **Joseph M. Nyasani**, _"La signification ontologique du "moi" et du "nous" dans la philosophie africaine"_, dans _Moi, Nous et le corps : Premier symposium conjoint de philosophes d'Afrique et des Pays-Bas_, sous la direction de Heinz Kimmerle (Amsterdam : B. R. Grüner, 1989), p. 9.
+
+<a name="footnote12">12</a>: **Wendy Luhabe**, _Définir les moments : les expériences des dirigeants noirs sur le lieu de travail en Afrique du Sud_ (Pietermaritzburg : University of Natal Press, 2002), p. 103.
+
+<a name="footnote13">13</a>: _"Ubuntu, et autres conseils de management"_, The Economist, Vol. 334, No. 7906 (18 mars 1995), p. 68.
+
+<a name="footnote14">14</a>: **Thaddeus Metz**, _"Vers une théorie morale africaine"_, Journal de la philosophie politique, Vol. 15, No. 3 (2007), p. 331, 334.
+
+<a name="footnote15">15</a>: Ibid.
+
+<a name="footnote16">16</a>: Ibid, p. 332.
+
+<a name="footnote17">17</a>: Ibid, p. 333.
+
+<a name="footnote18">18</a>: **Henry Sidgwick**, _Les méthodes de l'éthique_, 7e éd. (Londres : Macmillan, 1907), p. 404, note 1.
+
+<a name="footnote19">19</a>: **C. S. Lewis**, _Les lettres du ruban adhésif_, Ed. rév. (New York : Macmillan, 1982), p. 81.
+
+<a name="footnote20">20</a>: **Aristote**, _Éthique de Nicomaque_, trad. Terence Irwin (Indianapolis : Hackett, 1985), 1170b6-7.
+
 [^21]: Mbigi, L'esprit du leadership africain, p. 69.
 [^22]: Fred Luthans, René Van Wyk & Fred O. Walumbwa, " Reconnaissance et développement de l'espoir pour les responsables organisationnels sud-africains ", The Leadership & Organization Development Journal, Vol. 25, No. 6 (2004), p. 515.
 [^23]: Augustine Shutte, Ubuntu : Une éthique pour la nouvelle Afrique du Sud (Le Cap : Cluster Publications, 2001), p. 24.
