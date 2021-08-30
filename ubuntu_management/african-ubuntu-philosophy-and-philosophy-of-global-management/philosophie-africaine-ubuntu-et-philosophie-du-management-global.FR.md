@@ -20,21 +20,21 @@ La philosophie d'Afrique _Ubuntu_ peut apporter une contribution significative �
 
 ## 2. La Philosophie Ubuntu
 
-L'une des caractéristiques les plus frappantes des cultures de l'Afrique subsaharienne est leur caractère non individualiste : "Bien que les cultures africaines présentent une diversité impressionnante, elles présentent également des similitudes remarquables. La communauté est la pierre angulaire de la pensée et de la vie africaines"<sup>[1](#myfootnote1)</sup>. Un Africain n'est pas un individu robuste, mais une personne au sein d'une communauté. Pour reprendre les mots de John Mbiti, "Je suis, parce que nous sommes ; et puisque nous sommes, donc je suis"<sup>[2](#myfootnote2)</sup>. Ou, comme le dit Yusufu Turaki : "Les gens ne sont pas des individus, vivant dans un état d'indépendance, mais font partie d'une communauté, vivant dans les relations et l'interdépendance"<sup>[3](#myfootnote3)</sup>.
+L'une des caractéristiques les plus frappantes des cultures de l'Afrique subsaharienne est leur caractère non individualiste : "Bien que les cultures africaines présentent une diversité impressionnante, elles présentent également des similitudes remarquables. La communauté est la pierre angulaire de la pensée et de la vie africaines"<sup>[1](#footnote1)</sup>. Un Africain n'est pas un individu robuste, mais une personne au sein d'une communauté. Pour reprendre les mots de John Mbiti, "Je suis, parce que nous sommes ; et puisque nous sommes, donc je suis"<sup>[2](#footnote2)</sup>. Ou, comme le dit Yusufu Turaki : "Les gens ne sont pas des individus, vivant dans un état d'indépendance, mais font partie d'une communauté, vivant dans les relations et l'interdépendance"<sup>[3](#footnote3)</sup>.
 
 Le caractère communautaire de la culture africaine ne signifie pas pour autant que le bien de l'individu soit subordonné à celui du groupe, comme c'est le cas dans le collectivisme marxiste. Dans une véritable communauté, l'individu ne poursuit pas le bien commun _au lieu de_ son propre bien, mais il poursuit plutôt son propre bien _en poursuivant_ le bien commun. L'éthique d'une véritable communauté ne demande pas aux personnes de sacrifier leur propre bien pour promouvoir le bien des autres, mais plutôt de reconnaître qu'elles ne peuvent atteindre leur propre bien véritable qu'en promouvant le bien des autres. Obiora Ike et Ndidi Nnoli Edozien expliquent cela en décrivant la structure de la société Igbo :
 
-> La structure sociale de Igbo est constituée de nombreuses petites communautés locales. Au sein même du village, le pouvoir est détenu par différents groupes et l'équilibre social est maintenu par un système de vérifications et d'équilibres. La société Igbo était telle que même s'il existait une forte conscience communautaire, les droits de l'individu et l'existence en tant qu'entité n'étaient pas négligés. La liberté d'expression, la libre circulation et la liberté d'action dans la société Igbo étaient garanties[^4].
+> La structure sociale de Igbo est constituée de nombreuses petites communautés locales. Au sein même du village, le pouvoir est détenu par différents groupes et l'équilibre social est maintenu par un système de vérifications et d'équilibres. La société Igbo était telle que même s'il existait une forte conscience communautaire, les droits de l'individu et l'existence en tant qu'entité n'étaient pas négligés. La liberté d'expression, la libre circulation et la liberté d'action dans la société Igbo étaient garanties<sup>[4](#footnote4)</sup>.
 
 Et Kwame Gyekye fait la même remarque en interprétant un proverbe akan :
 
-> "Le clan est comme un agglomérat d'arbres qui, vus de loin, semblent blottis les uns contre les autres, mais qui seraient vus individuellement lorsqu'on s'en approche de près." ... Le proverbe souligne la réalité sociale de l'individu ; il exprime l'idée que l'individu a une identité distincte et que, comme l'arbre dont certaines branches peuvent toucher d'autres arbres, l'individu est enraciné séparément et n'est pas complètement absorbé par le groupe. En d'autres termes, la communauté n'efface pas l'individualité et ne l'écrase pas[^5].
+> "Le clan est comme un agglomérat d'arbres qui, vus de loin, semblent blottis les uns contre les autres, mais qui seraient vus individuellement lorsqu'on s'en approche de près." ... Le proverbe souligne la réalité sociale de l'individu ; il exprime l'idée que l'individu a une identité distincte et que, comme l'arbre dont certaines branches peuvent toucher d'autres arbres, l'individu est enraciné séparément et n'est pas complètement absorbé par le groupe. En d'autres termes, la communauté n'efface pas l'individualité et ne l'écrase pas<sup>[5](#footnote5)</sup>.
 
-En Afrique du sud, la conception traditionnelle selon laquelle on n'est vraiment humain qu'en tant que membre d'une communauté est exprimée en termes d'"_ubuntu_". D'après les mots de Mogobe Ramose, "_Ubuntu_ est à la fois le fondement et l'édifice de la philosophie africaine" [^6]. Selon Richard Tambulasi et Happy Kayuni, "_Ubuntu_ est la base de la vie culturelle communautaire africaine"[^7] et Jabulani Sithole écrit : "_Ubuntu_ fonctionne comme un facteur d'unification, rassemblant les gens indépendamment de leur origine ou de leur accès à la richesse"[^8].
+En Afrique du sud, la conception traditionnelle selon laquelle on n'est vraiment humain qu'en tant que membre d'une communauté est exprimée en termes d'"_ubuntu_". D'après les mots de Mogobe Ramose, "_Ubuntu_ est à la fois le fondement et l'édifice de la philosophie africaine"<sup>[6](#footnote6)</sup>. Selon Richard Tambulasi et Happy Kayuni, "_Ubuntu_ est la base de la vie culturelle communautaire africaine"<sup>[7](#footnote7)</sup> et Jabulani Sithole écrit : "_Ubuntu_ fonctionne comme un facteur d'unification, rassemblant les gens indépendamment de leur origine ou de leur accès à la richesse"<sup>[8](#footnote8)</sup>.
 
-Le mot _ubuntu_ appartient au groupe des langues nguni, et a des connotations dans d'autres langues bantoues. Il peut être mieux traduit en anglais par "humanness, or being human"[^9] (Ndt : humanité, ou être humain), comme l'explique Desmond Tutu :
+Le mot _ubuntu_ appartient au groupe des langues nguni, et a des connotations dans d'autres langues bantoues. Il peut être mieux traduit en anglais par "humanness, or being human"<sup>[9](#footnote9)</sup> (Ndt : humanité, ou être humain), comme l'explique Desmond Tutu :
 
-> _Ubuntu_ est très difficile à exprimer dans une langue occidentale. Cela parle de l'essence même de ce qu'est être humain. Lorsque nous voulons faire l'éloge de quelqu'un, nous disons : "_Yu, u nobuntu_" ; "Hé, il ou elle a l'_ubuntu_". Cela signifie que ces personnes sont généreuses, hospitalières, amicales, attentionnées et compatissantes. Ils partagent ce qu'ils ont. Cela signifie aussi que mon humanité est prise, inextricablement liée à la leur. Nous appartenons à un faisceau de vie[^10].
+> _Ubuntu_ est très difficile à exprimer dans une langue occidentale. Cela parle de l'essence même de ce qu'est être humain. Lorsque nous voulons faire l'éloge de quelqu'un, nous disons : "_Yu, u nobuntu_" ; "Hé, il ou elle a l'_ubuntu_". Cela signifie que ces personnes sont généreuses, hospitalières, amicales, attentionnées et compatissantes. Ils partagent ce qu'ils ont. Cela signifie aussi que mon humanité est prise, inextricablement liée à la leur. Nous appartenons à un faisceau de vie<sup>[10](#footnote10)</sup>.
 
 Comme c'est le cas de l'éthique traditionnelle ailleurs, l'éthique africaine traditionnelle est une éthique de la vertu. Selon les mots de Joseph Nyasani : "Des vertus comme la patience, l'optimisme, la sympathie mutuelle et l'empathie sont éminemment caractéristiques du mode de vie africain et indiquent certainement un mode d'existence particulier qui étend le domaine des potentialités individuelles pour embrasser la vie des autres et leurs préoccupations"[^11]. Et Wendy Luhabe écrit :
 
@@ -181,19 +181,25 @@ Il reste évidemment beaucoup de travail pour étoffer ce squelette. Si j'ai ins
 
 ## Notes
 
-<a name="myfootnote1">1</a>: Lovemore Mbigi, L'esprit du leadership africain (Randburg : Knowres, 2005), p. 75.
+<a name="footnote1">1</a>: Lovemore Mbigi, L'esprit du leadership africain (Randburg : Knowres, 2005), p. 75.
 
-<a name="myfootnote2">2</a>: John S. Mbiti, Religions et philosophie africaines (Nairobi : East African Educational Publishers, 1969), p. 108-109.
+<a name="footnote2">2</a>: John S. Mbiti, Religions et philosophie africaines (Nairobi : East African Educational Publishers, 1969), p. 108-109.
 
-<a name="myfootnote3">3</a>: Yusufu Turaki, Fondations de la religion traditionnelle africaine et sa vision du monde (Nairobi : WordAlive Publishers, 2006), p. 36.
+<a name="footnote3">3</a>: Yusufu Turaki, Fondations de la religion traditionnelle africaine et sa vision du monde (Nairobi : WordAlive Publishers, 2006), p. 36.
 
-[4]: Obiora F. Ike & Ndidi Nnoli Edozien, Comprendre l'Afrique : Raisonnement juridique traditionnel, jurisprudence et justice en Igboland (Enugu : CIDJAP Publications, 2001), p. 155. 5
-[5]: Kwame Gyekye, La vie non examinée : Philosophie et expérience africaine (Accra : Sankofa, 1996), p. 32.
-[6]: Mogobe B. Ramose, Philosophie africaine à travers Ubuntu (Harare : Mond Books, 1999), p. 49.
-[7]: Richard Tambulasi & Happy Kayuni, " les pieds africains peuvent-ils divorcer des chaussures occidentales ? Le cas d'Ubuntu et de la bonne gouvernance démocratique au Malawi", Nordic Journal of African Studies, Vol. 14, No. 2 (2005), p. 147.
-[8]: Jabulani Sithole, " L'Afrique ne peut utiliser que sa propre culture pour influencer la mondialisation ", afrol News, 15 mai 2001, http://www.afrol.com/html/News2001/afr020_culture_econ.htm.
-[9]: Reuel J. Khoza, Laissez l'Afrique diriger : Le leadership transformationnel africain pour les affaires du 21e siècle (Johannesburg : Vezubuntu, 2006), p. 6.
-[10]: Desmond Mpilo Tutu, Pas de futur sans pardon (Londres : Rider, 1999), p. 34-35.
+<a name="footnote4">4</a>: Obiora F. Ike & Ndidi Nnoli Edozien, Comprendre l'Afrique : Raisonnement juridique traditionnel, jurisprudence et justice en Igboland (Enugu : CIDJAP Publications, 2001), p. 155. 5
+
+<a name="footnote5">5</a>: Kwame Gyekye, La vie non examinée : Philosophie et expérience africaine (Accra : Sankofa, 1996), p. 32.
+
+<a name="footnote6">6</a>: Mogobe B. Ramose, Philosophie africaine à travers Ubuntu (Harare : Mond Books, 1999), p. 49.
+
+<a name="footnote7">7</a>: Richard Tambulasi & Happy Kayuni, " les pieds africains peuvent-ils divorcer des chaussures occidentales ? Le cas d'Ubuntu et de la bonne gouvernance démocratique au Malawi", Nordic Journal of African Studies, Vol. 14, No. 2 (2005), p. 147.
+
+<a name="footnote8">8</a>: Jabulani Sithole, " L'Afrique ne peut utiliser que sa propre culture pour influencer la mondialisation ", afrol News, 15 mai 2001, http://www.afrol.com/html/News2001/afr020_culture_econ.htm.
+
+<a name="footnote9">9</a>: Reuel J. Khoza, Laissez l'Afrique diriger : Le leadership transformationnel africain pour les affaires du 21e siècle (Johannesburg : Vezubuntu, 2006), p. 6.
+
+<a name="footnote10">10</a>: Desmond Mpilo Tutu, Pas de futur sans pardon (Londres : Rider, 1999), p. 34-35.
 [^11]: Joseph M. Nyasani, " La signification ontologique du "moi" et du "nous" dans la philosophie africaine ", dans Moi, Nous et le corps : Premier symposium conjoint de philosophes d'Afrique et des Pays-Bas, sous la direction de Heinz Kimmerle (Amsterdam : B. R. Grüner, 1989), p. 9.
 [^12]: Wendy Luhabe, Définir les moments : Définir les moments : les expériences des dirigeants noirs sur le lieu de travail en Afrique du Sud (Pietermaritzburg : University of Natal Press, 2002), p. 103.
 [^13]: "Ubuntu, et autres conseils de management", The Economist, Vol. 334, No. 7906 (18 mars 1995), p. 68.
